@@ -1,0 +1,12 @@
+{
+  "name": "virtix-ai-dex",
+  "version": "1.0.0",
+  "description": "Virtix Ai DEX Aggregator Project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
