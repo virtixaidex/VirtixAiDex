@@ -97,7 +97,7 @@ Virtix Ai is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 ## Contact
 
-For inquiries or support, reach out to us at [support@virtixai.com](mailto:support@virtixai.fun).
+For inquiries or support, reach out to us at [Support](mailto:support@virtixai.ai).
 ```
 
 ### Key Changes:
