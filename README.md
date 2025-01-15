@@ -1,7 +1,7 @@
 # Virtix Ai - Decentralized Exchange Aggregator
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/195119772?v=4" alt="Virtix Ai Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/virtixaidex/VirtixAiDex/refs/heads/main/assets/logo.png" alt="Virtix Ai Logo" width="250"/>
 </div>
 
 Virtix Ai revolutionizes decentralized finance by providing a cutting-edge DEX aggregator. Seamlessly access multiple decentralized exchanges through a single intuitive platform. Enjoy real-time insights on the best prices, liquidity, trading pairs, and volumes, empowering you to trade smarter and faster—all in one place.
